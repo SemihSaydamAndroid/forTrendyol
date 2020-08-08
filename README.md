@@ -1,4 +1,4 @@
 # Note
 
-The test contains Trendyol UI test.
+The code contains Trendyol UI test.
 This test created with Page Object Model. 
